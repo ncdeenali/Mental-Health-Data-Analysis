@@ -1,0 +1,60 @@
+Case_ID: A unique identifier for each case in the dataset.
+Age: The age of the individual.
+Marital_Status: The individual's marital status (e.g., Single, Married).
+Employment_Status: The employment status of the individual (e.g., Unemployed, Self-employed, Part-time employed, Full-time employed, Student). 
+Income Level: The income level of the individual, typically categorized into ranges like Low, Middle, or High Income.
+Health Index: Numeric score (0-5) representing overall health, where 5 indicates optimal health.
+Smoking: Indicates if the individual smokes (Yes/No).
+psychological_disorder: Presence of psychological disorders (Yes/No).
+taken_drugs: History of taking drugs (Yes/No).
+dropped_motivation_to_working: Decrease motivation towards work or academic efforts (Yes/No).
+absence_from_work: Frequency of unexplained absences from work or education (Yes/No).
+find_exotic_tools: Presence of items commonly associated with drug use (Yes/No).
+sleeping_habits: Changes in sleeping patterns (Yes/No).
+Headache: Occurrence of frequent headaches (Yes/No).
+decreased_social_interaction: Decrease in social activities or interactions (Yes/No).
+increased_personal_expenses: Unexplained increase in personal spending (Yes/No).
+selling_house_content: Selling personal or household items, potentially for drug purchases (Yes/No).
+commit_stole: Instances of stealing behavior (Yes/No).
+Lying: Patterns of deceitful behavior or lying (Yes/No).
+difficulty_speaking_expressing: Communication or expressing thoughts difficulties (Yes/No).
+secretive_suspicious_behavior: Secretive or suspicious behavior (Yes/No).
+increased_respiratory_rate: Increase in breathing rate (Yes/No).
+fabricating_family_problems: Creating or exaggerating family issues (Yes/No).
+car_crash: Recent involvement in car accidents (Yes/No).
+irritable_mood: Mood swings or irritability (Yes/No).
+hallucinations: Experiences of hallucinations (Yes/No).
+heart_palpitations: Unusually strong or irregular heartbeats (Yes/No).
+unjustified_anxiety_fear: Feelings of anxiety or fear without a clear cause (Yes/No).
+Nausea: Occurrences of nausea (Yes/No).
+Hyperactivity: Increased levels of activity or energy (Yes/No).
+feeling_in_good_health: Perception of being in good health (Yes/No).
+feeling_of_superiority: Experiences feelings of superiority or grandiosity (Yes/No).
+suspension_in_issues: Increased skepticism or distrust (Yes/No).
+high_blood_pressure: Presence of high blood pressure (Yes/No).
+Mydriasis: Shows if eye pupils are larger than normal (Yes/No).
+Diaphoresis: Instances of excessive sweating (Yes/No).
+weight_change: Significant weight changes (Yes/No).
+memory_impairment: Noticeable decline in memory function (Yes/No).
+aggressive_behavior: Instances of aggression or hostility (Yes/No).
+high_body_temperature: Occurrences of elevated body temperature (Yes/No).
+hand_shakes: Presence of tremors or shaking of the hands (Yes/No).
+skin_redness: Unusual skin redness (Yes/No).
+dermatological_problems: Reported skin or dermatological problems (Yes/No).
+difficulty_completing_tasks: Difficulties in completing daily tasks (Yes/No).
+repeating_actions: Behaviors of repeating the same actions (Yes/No).
+bad_breath_cracked_lips: Presence of bad breath or cracked lips (Yes/No).
+cold_hands: Frequently has cold hands (Yes/No).
+suicidal_behavior: Expressed or observed suicidal thoughts or actions (Yes/No).
+distracted_and_absent_minded: Preference to be easily distracted or absent-minded (Yes/No).
+difficulty_to_relaxing: Challenges in relaxing or unwinding (Yes/No).
+inablity_to_estimate: Difficulties in estimating time or shapes (Yes/No).
+dryness_or_Redness: Symptoms of eye dryness or redness (Yes/No).
+Fatigue_pallor: Signs of fatigue and pallor (Yes/No).
+slow_reactions: Slowed reaction times (Yes/No).
+difficulty_controlling_emotions: Difficulties in managing emotional responses (Yes/No).
+Deterioration_of_physical_appearance: Indicates whether there is a noticeable decline in the individual's physical upkeep.
+Weighted_Stress_Index: A numeric score representing the stress level the individual is experiencing, weighted by various factors.
+Risk_of_Legal_Issues: Numeric score (0-10) indicating the likelihood of legal issues, with 10 showing the highest risk of legal violations.
+Risk_Factor_Score: Numeric score evaluating the risk of drug addiction based on behavior and health indicators.
+Drug_or_not: Indicates whether the individual is identified as a drug abuser (Yes/No).
